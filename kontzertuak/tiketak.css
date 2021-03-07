@@ -1,0 +1,201 @@
+body{
+	background-color: #844bed;
+}
+
+	
+
+
+#goiburua{
+	background-image: url("images/banner.jpg");
+	background-size: 900px 150px;
+	width:900px;
+	height: 150px;
+	border-radius:10px 10px 0px 0px;
+}
+
+input {
+	width: 180px;
+}
+#logoa{
+	
+	width:125px;
+	height:125px;
+	background-image: url("images/logo.png");
+	background-size: 125px 125px;
+	float:left;
+	margin-left: 12px;
+	margin-top: 12px;
+}
+
+
+#webizena{
+	font-size:80px;
+   font-family: tiketak; 
+   color: #8042f4;
+   margin-left: 100px;
+   margin-top: 25px;
+   float:left;
+   -moz-text-stroke: 1px #000;
+   -webkit-text-stroke: 1px #000;
+}
+
+#signup {
+	right: 27px;
+}
+#artistak {
+	right: 27px;
+}
+
+/*'fonts' izenarekin karpeta bat sortu eta 'giftwrap.ttf' fitxategia bertara mugitu*/
+
+@font-face{
+		src: url("fonts/giftwrap.ttf");
+		font-family: tiketak;
+}
+
+
+
+
+#ezkerra{
+	float:left;
+	width:22%;
+	margin-left: 15px;
+	margin-top: 15px;
+	background-color: #848181;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 5px 5px 15px black;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.box,#nagusia, #nagusia2{
+	background-color: #848181;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 5px 5px 15px black;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+#nagusia{
+	float:left;
+	width:50%;
+	margin-left: 10px;
+}
+
+#nagusia2{
+	float:left;
+	width:600px;
+	margin-left: 30px;
+}
+#eskubia{
+
+	width: 200px;
+	margin-right: 15px;
+}
+#orria{
+
+	border: 1px black solid;
+	width: 900px;
+	background-color: #ad83c1;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px black;
+	margin:auto;
+	
+}
+#eskubia1{
+	background-color: #848181;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 5px 5px 15px black;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	float:right;
+	width: 22%;
+	margin-right: 15px;
+}
+#eskubia2{
+	background-color: #848181;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 5px 5px 15px black;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	float:right;
+	width: 22%;
+	margin-right: 15px;
+}
+#oina{
+	clear: both;
+	text-align: center;
+	margin-top: 15px;
+}
+
+.box h3{
+	font-family:tiketak;
+	
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+	color: red;
+	font-style: italic;
+}
+
+#onena p{
+text-align: center;
+}
+
+#nagusia h2{
+	font-family: tiketak;
+}
+
+#nagusia p{
+text-align: justify;
+width:420px;
+}
+
+#nagusia td img{
+	width: 130px;
+	height: 175px;
+}
+
+
+#nagusia table{
+	margin: auto;
+}
+
+
+
+
+
+
+@font-face{
+		src: url("fonts/giftwrap.ttf");
+		font-family: tiketak;
+}
+
+#goiburua h1 {
+	font-family:tiketak;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<link rel="stylesheet" href="tiketak.css"/>
+</head>
+<body>
+
+	<div id="goiburua">
+	
+		<div id="logoa">
+		
+		
+		
+		</div>	
+	
+		<div id="webizena">
+			LEZO TIKETAK
+		
+		</div>		
+	
+	</div>
+	
+	<div id="ezkerra">
+						<div id="menua">
+								<h3>
+										Menu
+								</h3>
+								
+								<ul>
+									<li><a href="index.html">Latest News</a></li>								
+									<li><a href="gigs.html">Upcoming Gigs</a></li>
+									<li><a href="video.html">Video Gallery</a></li>
+									<li><a href="audio.html">Audio Gallery</a></li>
+									<li><a href="photos.html">Concert Photos</a></li>
+									<li><a href="tickets.html">Buy Tickets</a></li>	
+									<li><a href="lezo.html">About Us</a></li>	
+								</ul>
+								
+								
+						</div>
+						<div id="signup">
+								<h3>
+									Sign up for our newsletter
+								</h3>
+								Enter your e-mail:
+								<br>
+										
+										<input type=email placeholder="Sartu zure emaila">
+										<br>
+										<input type=button value="Enter">
+
+								
+						</div>
+	
+	</div>
+
+
+
+</body>
+</html>
